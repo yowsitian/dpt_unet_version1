@@ -1,0 +1,26 @@
+__ignore__
+_background_
+anterior mandible mild
+anterior mandible moderate
+anterior mandible severe
+anterior mandible normal
+anterior maxilla mild
+anterior maxilla moderate
+anterior maxilla severe
+anterior maxilla normal
+left posterior mandible mild
+left posterior mandible moderate
+left posterior mandible severe
+left posterior mandible normal
+left posterior maxilla mild
+left posterior maxilla moderate
+left posterior maxilla severe
+left posterior maxilla normal
+right posterior mandible mild
+right posterior mandible moderate
+right posterior mandible severe
+right posterior mandible normal
+right posterior maxilla mild
+right posterior maxilla moderate
+right posterior maxilla severe
+right posterior maxilla normal
