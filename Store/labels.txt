@@ -24,3 +24,13 @@ right posterior maxilla mild
 right posterior maxilla moderate
 right posterior maxilla severe
 right posterior maxilla normal
+anterior mandible
+anterior maxilla
+left posterior mandible
+left posterior maxilla
+right posterior mandible
+right posterior maxilla
+normal
+mild
+moderate
+severe
